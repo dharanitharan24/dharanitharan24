@@ -1,26 +1,79 @@
-<h1 align="center">Hi 👋, I'm Dharanitharan Sekar</h1>
-<h3 align="center">I’m a Data Science student and Software Developer passionate about creating intelligent systems that blend data insights with robust engineering. I enjoy exploring both data science and software development, constantly challenging myself to build solutions that are both analytical and scalable.</h3>
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:3f5efb,100:fc466b&height=220&section=header&text=Dharanitharan%20Sekar&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-- 🔭 I’m currently working on [sentiment-analysis](https://github.com/dharanitharan24/sentiment-analysis-flask)
-
-- 🌱 I’m currently learning **SpringBoot, DSA, Oops**
-
-- 🤝 I’m looking for help with [LRU Cache Visualizer (Java)](https://github.com/dharanitharan24/data-structures/blob/main/Cache/LRUcache.java)
-
-- 📫 How to reach me **dharanitharan2410@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bNxgDYwJVC6GcM3FKclphq1axSicRgxa/view?usp=drive_link](https://drive.google.com/file/d/1bNxgDYwJVC6GcM3FKclphq1axSicRgxa/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dharani24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dharani24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dharanitharan a s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharanitharan a s" height="30" width="40" /></a>
-<a href="https://kaggle.com/dharanitharansekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dharanitharansekar" height="30" width="40" /></a>
-<a href="https://instagram.com/dharanitharan_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharanitharan_24" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@dharanitharan241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dharanitharan241" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dharanitharan_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharanitharan_24" height="30" width="40" /></a>
+<h3 align="center">Data Science | Software Development | AI Enthusiast</h3>
+<p align="center">
+Building intelligent systems that combine analytical power with scalable engineering.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+### 🔍 About Me
+- 🔭 Currently working on: **Sentiment Analysis using NLP + Flask**
+- 🚀 Exploring **Spring Boot**, **Deep Learning**, **Advanced DSA**, **System Design**
+- 🛠 Passionate about bridging **Data Science** with **Full-Stack Engineering**
+- 📬 Reach me at: **dharanitharan2410@gmail.com**
+- 📝 Resume →  
+  <a href="https://drive.google.com/file/d/1bNxgDYwJVC6GcM3FKclphq1axSicRgxa/view?usp=drive_link">View Here</a>
+
+---
+
+### 🌐 Connect & Collaborate
+<p align="left">
+<a href="https://linkedin.com/in/dharanitharan-a-s"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://leetcode.com/dharanitharan_24"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" /></a>
+<a href="https://kaggle.com/dharanitharansekar"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" /></a>
+<a href="https://twitter.com/dharani24"><img height="40" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
+</p>
+
+---
+
+### 🧠 Skills & Tech Stack
+
+#### Programming & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,spring,flask,tensorflow" />
+</p>
+
+#### Web & Database
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,mysql,git,linux" />
+</p>
+
+#### Data Science & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,vscode,stackoverflow&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Performance
+<p align="center">
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=dharanitharan24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=dharanitharan24&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| **Sentiment Analysis ML App** | Python, LSTM, Flask | Real-time NLP sentiment prediction |
+| **LRU Cache Visualizer** | Java, Collections | Interactive visualization for caching |
+| **Medical Billing System** | Spring Boot, MySQL | Secure CRUD system with authentication |
+
+🔗 Explore more → https://github.com/dharanitharan24?tab=repositories
+
+---
+
+### 🎯 Vision
+Crafting data-driven software that **learns**, **adapts**, and **scales**.
+
+---
+
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=dharanitharan24&color=blueviolet" alt="Profile views"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3f5efb,100:fc466b&height=120&section=footer" />
