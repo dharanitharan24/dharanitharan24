@@ -14,7 +14,7 @@ Building intelligent systems that combine analytical power with scalable enginee
 - 🛠 Passionate about bridging **Data Science** with **Full-Stack Engineering**
 - 📬 Reach me at: **dharanitharan2410@gmail.com**
 - 📝 Resume →  
-  <a href="[https://drive.google.com/file/d/1bNxgDYwJVC6GcM3FKclphq1axSicRgxa/view?usp=drive_link](https://drive.google.com/file/d/13WCOKSKZqQxV5J6YUVk7_tRETUoxuZXQ/view?usp=drive_link)">View Here</a>
+  <a href="https://drive.google.com/file/d/13WCOKSKZqQxV5J6YUVk7_tRETUoxuZXQ/view?usp=drive_link">View Here</a>
 
 ---
 
