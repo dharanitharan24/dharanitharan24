@@ -14,16 +14,16 @@ Building intelligent systems that combine analytical power with scalable enginee
 - 🛠 Passionate about bridging **Data Science** with **Full-Stack Engineering**
 - 📬 Reach me at: **dharanitharan2410@gmail.com**
 - 📝 Resume →  
-  <a href="https://drive.google.com/file/d/1bNxgDYwJVC6GcM3FKclphq1axSicRgxa/view?usp=drive_link">View Here</a>
+  <a href="[https://drive.google.com/file/d/1bNxgDYwJVC6GcM3FKclphq1axSicRgxa/view?usp=drive_link](https://drive.google.com/file/d/13WCOKSKZqQxV5J6YUVk7_tRETUoxuZXQ/view?usp=drive_link)">View Here</a>
 
 ---
 
 ### 🌐 Connect & Collaborate
 <p align="left">
-<a href="https://linkedin.com/in/dharanitharan-a-s"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href="https://leetcode.com/dharanitharan_24"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" /></a>
-<a href="https://kaggle.com/dharanitharansekar"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" /></a>
-<a href="https://twitter.com/dharani24"><img height="40" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/dharanitharan-a-s-1a61a527b/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://leetcode.com/u/dharanitharan_24/"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" /></a>
+<a href="https://www.kaggle.com/dharanitharansekar"><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" /></a>
+<a href="https://x.com/Dharani243"><img height="40" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
 </p>
 
 ---
