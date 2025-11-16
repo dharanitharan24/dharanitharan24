@@ -25,19 +25,6 @@ Building intelligent, production-ready systems with scalable engineering and ML 
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
 
-<a href="https://leetcode.com/u/dharanitharan_24/">
-  <img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LeetCode-Dark.svg"/>
-</a>
-
-<a href="https://www.kaggle.com/dharanitharansekar">
-  <img height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kaggle-Dark.svg"/>
-</a>
-
-<a href="https://x.com/Dharani243">
-  <img height="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>
-</a>
-</p>
-
 ---
 
 ### 🧠 Skills & Tech Stack
