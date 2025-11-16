@@ -14,7 +14,7 @@ Building intelligent systems that combine analytical power with scalable enginee
 - 🛠 Passionate about bridging **Data Science** with **Full-Stack Engineering**
 - 📬 Reach me at: **dharanitharan2410@gmail.com**
 - 📝 Resume →  
-  <a href="https://drive.google.com/file/d/13WCOKSKZqQxV5J6YUVk7_tRETUoxuZXQ/view?usp=drive_link">View Here</a>
+  <a href="https://drive.google.com/file/d/13WCOKSKZqQxV5J6YUVk7_tRETUoxuZXQ/view?usp=drive_link"> link </a>
 
 ---
 
@@ -59,9 +59,9 @@ Building intelligent systems that combine analytical power with scalable enginee
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| **Sentiment Analysis ML App** | Python, LSTM, Flask | Real-time NLP sentiment prediction |
+| **Real-time-Chat-Application** | Java, Spring-boot, Html, Css, Js, Websocket(STOMP) | Bi-directional communication for multi-users|
 | **LRU Cache Visualizer** | Java, Collections | Interactive visualization for caching |
-| **Medical Billing System** | Spring Boot, MySQL | Secure CRUD system with authentication |
+| **Sentiment Analysis ML App** | Python, LSTM, Flask | Real-time NLP sentiment prediction |
 
 🔗 Explore more → https://github.com/dharanitharan24?tab=repositories
 
