@@ -54,14 +54,6 @@ Building intelligent, production-ready systems with scalable engineering and ML 
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=dharanitharan24&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=dharanitharan24&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🎯 Goals
 Crafting intelligent, reliable systems that **learn**, **scale**, and solve real-world challenges.
 
