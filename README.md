@@ -31,8 +31,8 @@ Building intelligent, production-ready systems with scalable engineering and ML 
 
 #### Core Programming & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,spring" />
-  <img src="https://skillicons.dev/icons?i=c,cpp"/>
+  <img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://skillicons.dev/icons?i=c"/>
 </p>
 
 #### Frontend, Backend & DB
