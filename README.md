@@ -15,7 +15,7 @@ Building intelligent, production-ready systems with scalable engineering and ML 
 - Hands-on with **Spring Boot**, **Deep Learning**, **Real-Time Applications**
 - Continuously working on **System Design**, **Advanced DSA**, and **Cloud Deployment**
 - Contact → **dharanitharan2410@gmail.com**
-- Resume → <a href="[https://drive.google.com/file/d/13WCOKSKZqQxV5J6YUVk7_tRETUoxuZXQ/view?usp=drive_link](https://drive.google.com/file/d/1rrvd8q9acowAv2enkW6uH6oeZNWA0iCF/view?usp=drive_link)">link</a>
+- Resume → <a href="https://drive.google.com/file/d/13WCOKSKZqQxV5J6YUVk7_tRETUoxuZXQ/view?usp=drive_link](https://drive.google.com/file/d/1rrvd8q9acowAv2enkW6uH6oeZNWA0iCF/view?usp=drive_link)">link</a>
 
 ---
 
